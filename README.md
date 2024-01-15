@@ -10,11 +10,11 @@ A mini clone of the [Lodash](https://lodash.com) library.
 
 **Install it:**
 
-`npm install @chen.liang/example-lodash`
+`npm install example-lodash`
 
 **Require it:**
 
-`const _ = require('@chen.liang/example-lodash');`
+`const _ = require('example-lodash');`
 
 **Call it:**
 

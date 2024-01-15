@@ -1,0 +1,22 @@
+{
+  "name": "example-lodash",
+  "version": "1.0.0",
+  "description": "A mini clone of the [Lodash](https://lodash.com) library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrchenliang/example-lodash.git"
+  },
+  "keywords": [
+    "example-lodash"
+  ],
+  "author": "Chen Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrchenliang/example-lodash/issues"
+  },
+  "homepage": "https://github.com/mrchenliang/example-lodash#readme"
+}
