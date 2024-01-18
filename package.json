@@ -1,6 +1,6 @@
 {
   "name": "example-lodash",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A mini clone of the [Lodash](https://lodash.com) library.",
   "main": "index.js",
   "scripts": {
