@@ -1,6 +1,6 @@
 {
   "name": "example-lodash",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A mini clone of the [Lodash](https://lodash.com) library.",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,5 @@
   "bugs": {
     "url": "https://github.com/mrchenliang/example-lodash/issues"
   },
-  "homepage": "https://github.com/mrchenliang/example-lodash#readme",
+  "homepage": "https://github.com/mrchenliang/example-lodash#readme"
 }
