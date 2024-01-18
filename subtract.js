@@ -1,3 +1,5 @@
-export const subtract = function(minuend, subtrahend) {
+const subtract = function(minuend, subtrahend) {
   return minuend - subtrahend;
 };
+
+module.exports = subtract;
